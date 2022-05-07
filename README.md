@@ -1,5 +1,5 @@
-# NOVA
-NOVA: Rendering Virtual Worlds with Humans for Computer Vision Tasks
+# NOVA: Rendering Virtual Worlds with Humans for Computer Vision Tasks
+
 
 
 <img src='https://github.com/A-Kerim/NOVA/blob/983af94f43d92bf8b843dc1bba75990f00d50184/images/teaser_NOVA.png'>
