@@ -7,10 +7,14 @@ A sample panorama displaying procedurally generated humans by the NOVA framework
 
 
 ## Authors
-Abdulrahman Kerim, Lancaster University, a.kerim@lancaster.ac.uk
+**Abdulrahman Kerim, Lancaster University, a.kerim@lancaster.ac.uk**
+
 Cem Aslan, Hacettepe University
+
 Ufuk Celikcan, Hacettepe University
+
 Erkut Erdem, Hacettepe University
+
 Aykut Erdem, Koç University
 
 ## Abstract
