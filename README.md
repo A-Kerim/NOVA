@@ -22,3 +22,23 @@ Today, the cutting edge of computer vision research greatly depends on the avail
 
 ## Acknowledgements
 This work was supported in part by TUBITAK-1001 Program (Grant No. 217E029), GEBIP 2018 fellowship of Turkish Academy of Sciences awarded to E. Erdem, and BAGEP 2021 Award of the Science Academy awarded to A. Erdem.
+
+## Citation
+* [Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14271) published at Computer Graphics Forum Journal.
+
+```ruby
+@article{0a8eb23d8bc348fcb2a2106e089a6fd9,
+title = "NOVA: Rendering Virtual Worlds with Humans for Computer Vision Tasks",
+year = "2021",
+month = sep,
+day = "30",
+doi = "10.1111/cgf.14271",
+language = "English",
+volume = "40",
+pages = "258--272",
+journal = "Computer Graphics Forum",
+issn = "0167-7055",
+publisher = "Wiley-Blackwell",
+number = "6",
+}
+```
